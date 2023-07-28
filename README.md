@@ -1,6 +1,7 @@
+![Learning Web Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 ### Hi there 👋, I'm Azizul Islam,
 #### Learning Web Development
-![Learning Web Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Now I am a learner of Wev Development. But Inshallah I will be a proper Full Stack Web Developer. Not only a Web Developer but also a Programmer.
 
